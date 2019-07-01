@@ -1,0 +1,7 @@
+[package]
+name = "aes"
+version = "0.1.0"
+authors = ["John Bland <jpbland@mtu.edu>"]
+edition = "2018"
+
+[dependencies]
